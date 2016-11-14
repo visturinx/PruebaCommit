@@ -10,7 +10,9 @@ and open the template in the editor.
         <title>Agenda de contactos</title>
     </head>
     <body>
-
+/**
+lalalalalalallalaalalalalallalalalalalallalalalalalalallalalalalallalalalallalalalalalalalalallalalalalalalalall
+*/
         <?php
         $contactos = array();
 
